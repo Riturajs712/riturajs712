@@ -1,6 +1,6 @@
-<!-- Animated Typing Intro -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Rituraj+Singh;Passioniate+for+Coding;</>" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Rituraj+Singh;Passionate+for+Coding" />
 </p>
 
 ---
@@ -22,7 +22,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,c,cpp,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,c,cpp,git,github,vscode"/>
 </p>
 
 ---
@@ -30,11 +30,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=riturajs712&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🚀 Projects
