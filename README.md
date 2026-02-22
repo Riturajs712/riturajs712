@@ -9,7 +9,6 @@
 
 🎓 Computer Science Student at **SRM Institute of Science and Technology**  
 
----
 
 ## 🔥 About Me
 
@@ -25,19 +24,18 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,c,cpp,git,github,vscode"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=riturajs712&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 ---
 
 ## 🚀 Projects
 
 - 🤖 **Nexora AI** – Hypothesis Generator, MRI Detector, Conversational AI  
----
 
 ## 🌐 Connect With Me
 
