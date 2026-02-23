@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Rituraj+Singh;Passionate+for+Coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Rituraj+Singh;Passionate+for+Coding;</>" />
 </p>
 
 ---
