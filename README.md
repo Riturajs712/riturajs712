@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=riturajs712&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riturajs712&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
